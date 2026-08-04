@@ -3,6 +3,9 @@
 .env.local
 .venv/
 env/
+.RMS/
+RMS/
+
 
 # Dependencies
 node_modules/
