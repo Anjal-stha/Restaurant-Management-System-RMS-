@@ -36,6 +36,7 @@ backend/
 ├── .env                      # Local secrets vault (ignored by git)
 ├── main.py                   # The application bootstrapper
 └── requirements.txt          # Python dependencies
+```
 
 ## Module Responsibilities (The "Why")
 
